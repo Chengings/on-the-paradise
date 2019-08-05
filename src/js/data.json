@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "name": "Iberostart Grand Salome",
+      "image": "https://i.imgur.com/aaG666F.jpg",
+      "location": "Costa Adeje, Tenerife",
+      "guests": "2 Adults, 2 Children & 1 infant",
+      "rating": 5,
+      "departure_date": "2019-08-12T00:00:00Z",
+      "departure_airport": "Liverpool",
+      "nights": 4,
+      "price": 1234.0,
+      "currency": "GBP",
+      "description": "Tempore aut debitis officiis praesentium. Sapiente distinctio error doloremque recusandae porro vitae. Enim dicta vero minus odio mollitia modi. Cum tempore deserunt est voluptate nihil quas omnis.…"
+    },
+    {
+      "name": "Las Piramindes Resort",
+      "image": "https://i.imgur.com/rVnMQJu.jpg",
+      "location": "Los Cancajos, La Palma, Canaries",      "guests": "2 Adults, 3 Children",
+      "rating": 3,
+      "departure_date": "2019-08-16T00:00:00Z",
+      "departure_airport": "Manchester",
+      "nights": 8,
+      "price": 976.5,
+      "currency": "GBP",
+      "description": "Nobis eos repellendus itaque voluptatem placeat. Et suscipit aut qui eum. Unde hic reprehenderit nostrum perspiciatis ipsa modi voluptatem. Est sit nihil culpa quidem debitis aspernatur rem debitis.…"
+    },
+    {
+      "name": "Culpa Resort",
+      "image": "https://i.imgur.com/H4c7U.jpg",
+      "location": "Los Cancajos, La Palma, Canaries",
+      "guests": "2 Adults, 3 Children",
+      "rating": 5,
+      "departure_date": "2019-08-20T00:00:00Z",
+      "departure_airport": "Kerry",
+      "nights": 10,
+      "price": 1000,
+      "currency": "GBP",
+      "description": "Sequi enim harum aliquam quibusdam nostrum. Rerum eligendi tempora voluptatem ducimus possimus repudiandae. "
+    },
+    {
+      "name": "Aguamarina Golf Hotel",
+      "image": "https://i.imgur.com/BTdlagv.jpg",
+      "location": "Costa Adeje, Tenerife",
+      "guests": "2 Adults, 1 Child",
+      "rating": 4,
+      "departure_date": "2019-08-14T00:00:00Z",
+      "departure_airport": "Liverpool",
+      "nights": 6,
+      "price": 555.0,
+      "currency": "GBP",
+      "description": "Mollitia eum a inventore. Amet consequatur consequatur qui expedita maxime aut eveniet. Maxime libero excepturi dolores quia quia dolorem aspernatur aut.…"
+    },
+    {
+      "name": "Magni Hotel",
+      "image": "https://i.imgur.com/qwsH1Or.jpg",
+      "location": "Costa Maxime, Veniam",
+      "guests": "2 Adults, 1 Child",
+      "rating": 2,
+      "departure_date": "2019-08-25T00:00:00Z",
+      "departure_airport": "Manchester",
+      "nights": 6,
+      "price": 1111.0,
+      "currency": "GBP",
+      "description": "Iusto consequuntur at possimus dolore odit assumenda sit deserunt. Eveniet sed magni veniam laudantium voluptatem distinctio id omnis. Cumque eius autem vel ex magni praesentium voluptatem adipisci."
+    },
+    {
+      "name": "Amet Hotel",
+      "image": "https://i.imgur.com/TwGg5XV.jpg",
+      "location": "Quis, Dolores",
+      "guests": "5 Adults, 1 Child",
+      "rating": 1,
+      "departure_date": "2019-08-30T00:00:00Z",
+      "departure_airport": "Manchester",
+      "nights": 6,
+      "price": 5555.0,
+      "currency": "GBP",
+      "description": "Consequatur quis ratione est repellendus. Est qui magnam rerum. Ea quos rerum eum voluptas eos."
+    }
+  ]
+}

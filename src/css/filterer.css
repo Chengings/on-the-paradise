@@ -1,0 +1,14 @@
+.filterer {
+  background-color: #fff;
+  color: #17317F;
+  cursor: pointer;
+}
+
+.filterer-item {
+  padding: 0.5em;
+}
+
+.filterer-active {
+  background-color: #17317F;
+  color: #fff;
+}

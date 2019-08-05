@@ -1,0 +1,18 @@
+@import './layout.css';
+@import './filterer.css';
+@import './sorter.css';
+@import './util.css';
+@import './hotel.css';
+
+body {
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  font-size: 1rem;
+  line-height: 1.5;
+  background: rgb(0,181,233);
+  background: linear-gradient(180deg, rgba(0,181,233,1) 0%, rgba(74,181,221,1) 35%, rgba(192,236,234,1) 100%); 
+}
+
+.image-fit {
+  object-fit: cover;
+  width: 100%;
+}

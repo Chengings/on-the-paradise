@@ -1,0 +1,58 @@
+.hotel-wrapper {
+  margin-bottom: 2rem;
+  background-color: #fff;
+}
+
+.hotel-container {
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.hotel-sub-container {
+  font-size: 0.7rem;
+}
+
+.hotel-name {
+  color: #233C85;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.hotel-description {
+  padding: 1rem;
+}
+
+.hotel-location {
+  color: #9D9D9D;
+  font-size: 0.8rem;
+}
+
+.hotel-overview {
+  color: #364C90;
+  font-weight: bold;
+}
+
+.hotel-price {
+  background-color: #FEDC07;
+  color: #1C357B;
+  margin-top: 1.3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.hotel-item-image {
+  position: relative;
+}
+
+.hotel-item-read-toggle {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: #fff;
+  color: #364C90;
+  font-size: 0.8rem;
+  padding: 0.6rem 1.2rem;
+  width: 40%;
+}
