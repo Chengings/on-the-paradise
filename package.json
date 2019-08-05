@@ -29,5 +29,10 @@
     "presets": [
       "@babel/preset-react"
     ]
+  },
+  "homepage": "https://github.com/Chengings/on-the-paradise",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chengings/on-the-paradise.git"
   }
 }
